@@ -4,7 +4,7 @@ def main():
     x = a+b;
 
     print("x = " % x)
-    # asdfghjkl;'
-    
+    # hi
+
 if __name__ == "__main__":
     main()
